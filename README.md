@@ -1,1 +1,1 @@
-# COMP-273
+The main topics covered in this course were CPU archhitecture and assembly language programming. I've included two assembly programs I wrote as part of assignments. The other assingments in this course were non-programming and focussed on constructing circuits to preform some of the duties of the CPU.
